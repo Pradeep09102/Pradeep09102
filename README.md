@@ -1,6 +1,3 @@
-## Hi there 👋
-Here's a visually appealing and well-structured `README.md` tailored to your details with emojis and formatting:
-
 ---
 
 # 👋 Hi, I'm **Pradeep Boda**  
